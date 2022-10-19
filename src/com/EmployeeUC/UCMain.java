@@ -24,6 +24,7 @@ public class UCMain {
             }
             int dailyWage = wage * hour;
             System.out.println("Daily Employee wage: " + dailyWage);
+        System.out.println("Monthly  wage: " + dailyWage*20);
         }
     }
 
